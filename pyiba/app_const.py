@@ -21,9 +21,9 @@ from __version__ import __version_info__
 #---------------------------------
 # 定数
 #---------------------------------
-NAME_FULL    = "python image binary analyzer"
-NAME_SHORT   = "pyiba"
-NAME         = NAME_SHORT
-VERSION      = '.'.join(map(str, __version_info__))
-VERSION_DATE = datetime.date.today().strftime("%Y-%m-%d")
-DESCRIPTION  = "python image binary analyzer"
+APP_NAME_FULL    = "python image binary analyzer"
+APP_NAME_SHORT   = "pyiba"
+APP_NAME         = APP_NAME_SHORT
+APP_VERSION      = '.'.join(map(str, __version_info__))
+APP_VERSION_DATE = datetime.date.today().strftime("%Y-%m-%d")
+APP_DESCRIPTION  = "python image binary analyzer"
