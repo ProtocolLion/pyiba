@@ -1,0 +1,6 @@
+site_name: pyiba ドキュメント
+nav:
+  - ホーム: index.md
+# 必要に応じて他のmdファイルを追加
+site_dir: ../build
+docs_dir: .
